@@ -1,0 +1,28 @@
+{
+  "name": "angular-tutorial",
+  "version": "1.0.0",
+  "description": "Basic tuturial for building angular apps.",
+  "main": "index.js",
+  "dependencies": {
+    "@angular/cli": "^9.1.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaumb/angular-tutorial.git"
+  },
+  "keywords": [
+    "angular",
+    "starter",
+    "tutorial"
+  ],
+  "author": "jaumb@github.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaumb/angular-tutorial/issues"
+  },
+  "homepage": "https://github.com/jaumb/angular-tutorial#readme"
+}
